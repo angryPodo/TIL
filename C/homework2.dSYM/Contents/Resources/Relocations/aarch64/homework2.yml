@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/hanminjae/c언어/homework2"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100002FA8, symSize: 0x404 }
+  - { offsetInCU: 0x48, offset: 0x48, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100002FA8, symSize: 0x404 }
+  - { offsetInCU: 0x150, offset: 0x150, size: 0x8, addend: 0x0, symName: __Z5menu1PiS_PcPdi, symObjAddr: 0x404, symBinAddr: 0x1000033AC, symSize: 0x1B0 }
+  - { offsetInCU: 0x1CC, offset: 0x1CC, size: 0x8, addend: 0x0, symName: __Z5menu2PiS_Pdi, symObjAddr: 0x5B4, symBinAddr: 0x10000355C, symSize: 0x84 }
+  - { offsetInCU: 0x23A, offset: 0x23A, size: 0x8, addend: 0x0, symName: __Z5menu3PdPci, symObjAddr: 0x638, symBinAddr: 0x1000035E0, symSize: 0x160 }
+  - { offsetInCU: 0x29A, offset: 0x29A, size: 0x8, addend: 0x0, symName: __Z9menu3_prePdPci, symObjAddr: 0x798, symBinAddr: 0x100003740, symSize: 0x114 }
+  - { offsetInCU: 0x316, offset: 0x316, size: 0x8, addend: 0x0, symName: __Z5menu4PdS_Pii, symObjAddr: 0x8C0, symBinAddr: 0x100003868, symSize: 0xF0 }
+  - { offsetInCU: 0x384, offset: 0x384, size: 0x8, addend: 0x0, symName: __Z5menu5PcPiS0_PdS_S0_S0_i, symObjAddr: 0x9B0, symBinAddr: 0x100003958, symSize: 0x1A0 }
+...

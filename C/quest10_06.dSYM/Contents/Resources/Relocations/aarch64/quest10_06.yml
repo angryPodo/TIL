@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/hanminjae/c언어/quest10_06"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _rectangle, symObjAddr: 0x0, symBinAddr: 0x100003E5C, symSize: 0xA0 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _rectangle, symObjAddr: 0x0, symBinAddr: 0x100003E5C, symSize: 0xA0 }
+  - { offsetInCU: 0xAB, offset: 0xAB, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xA0, symBinAddr: 0x100003EFC, symSize: 0x54 }
+...
