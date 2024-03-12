@@ -1,5 +1,5 @@
 #include <stdio.h> 
-int main(void)
+int main()
 {
     double light_speed = 300000; 
     double distance = 149600000;
