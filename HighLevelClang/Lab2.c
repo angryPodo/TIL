@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    const double koPyeong = 3.3;
+    const double koPyeong = 3.3; //상수
     int input;
     double result;
 
